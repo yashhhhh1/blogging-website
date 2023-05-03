@@ -26,4 +26,4 @@ app.use('/user' , UserRoute)
 
 app.listen(PORT , ()=>{
     console.log(`Server Started at port ${PORT}`);
-})
+});
